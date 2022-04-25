@@ -24,7 +24,7 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginHorizontal="15"
+        android:layout_marginHorizontal="15dp"
         android:layout_marginTop="80dp"
 
         android:contentDescription="@string/todo"
@@ -84,13 +84,13 @@
         app:layout_constraintTop_toTopOf="@+id/et_pass" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btn_signin"
+        android:id="@+id/btn_register"
         android:layout_width="238dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:background="@drawable/btn_signin"
 
-        android:text="@string/sign_in"
+        android:text="@string/register"
         android:textColor="@color/white"
 
         android:textSize="20sp"

@@ -10,4 +10,7 @@
     <string name="your_name">Your name</string>
     <string name="create_new_account">CREATE NEW ACCOUNT</string>
     <string name="todo">TODO</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
 </resources>
